@@ -1,0 +1,5 @@
+$ python test_FourBasicOpt.py   # [1] 테스트만 있고 FourBasicOpt.py 없음
+Traceback (most recent call last):
+  File "test_FourBasicOpt.py", line 4, in <module>
+    from FourBasicOpt import FourBasicOpt
+ModuleNotFoundError: No module named 'FourBasicOpt'
